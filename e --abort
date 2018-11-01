@@ -1,0 +1,112 @@
+[33mcommit af03a7fe5137432391af9a3a1af324f67d2fd961[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{0} (abbacdef <coincash@mail.ru>)
+Reflog message: commit: routes
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 20:08:21 2018 +0500
+
+    routes
+
+[33mcommit fbc78240896fa5f001ee161de73443a63815129d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Reflog: HEAD@{1} (abbacdef <coincash@mail.ru>)
+Reflog message: reset: moving to @{u}
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit bbf1461736074fb20230a6aa17865c05752f43e0[m
+Reflog: HEAD@{2} (abbacdef <coincash@mail.ru>)
+Reflog message: commit: Merge branch 'master' of github.com:abbacdef/postg
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 20:05:31 2018 +0500
+
+    Merge branch 'master' of github.com:abbacdef/postg
+
+[33mcommit ddf83a1089f7b8af453ad9e0a41865b88215d343[m
+Reflog: HEAD@{3} (abbacdef <coincash@mail.ru>)
+Reflog message: reset: moving to HEAD~
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit e050f7a3fe7e4f5273e716fca8b24508082fab9f[m
+Reflog: HEAD@{4} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (merge): Merge branch 'master' of github.com:abbacdef/postg
+Merge: ddf83a1 fbc7824
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 20:04:07 2018 +0500
+
+    Merge branch 'master' of github.com:abbacdef/postg
+
+[33mcommit ddf83a1089f7b8af453ad9e0a41865b88215d343[m
+Reflog: HEAD@{5} (abbacdef <coincash@mail.ru>)
+Reflog message: reset: moving to HEAD
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit ddf83a1089f7b8af453ad9e0a41865b88215d343[m
+Reflog: HEAD@{6} (abbacdef <coincash@mail.ru>)
+Reflog message: reset: moving to HEAD~2
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit e9a5211a38988706bd1b1ef10e3a4a8ab6f6480f[m
+Reflog: HEAD@{7} (abbacdef <coincash@mail.ru>)
+Reflog message: commit: commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 19:53:33 2018 +0500
+
+    commit
+
+[33mcommit 2fd18e49f4ff89b62b6368f463e45354fdf8803f[m
+Reflog: HEAD@{8} (abbacdef <coincash@mail.ru>)
+Reflog message: commit: changed routes file
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 19:43:50 2018 +0500
+
+    changed routes file
+
+[33mcommit ddf83a1089f7b8af453ad9e0a41865b88215d343[m
+Reflog: HEAD@{9} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (amend): Initial commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit 601945b7cf070145419e2112a8fadd0b392f3d96[m
+Reflog: HEAD@{10} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (amend): Initial commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit 3fc6f6ec3b092a3fd19b607676cc21954dc907a4[m
+Reflog: HEAD@{11} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (amend): Initial commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit 47da5475b3fa0e33ee0c479eee793027dff19e48[m
+Reflog: HEAD@{12} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (amend): Initial commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
+
+[33mcommit fbc78240896fa5f001ee161de73443a63815129d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Reflog: HEAD@{13} (abbacdef <coincash@mail.ru>)
+Reflog message: commit (initial): Initial commit
+Author: abbacdef <coincash@mail.ru>
+Date:   Mon Oct 29 16:21:25 2018 +0500
+
+    Initial commit
